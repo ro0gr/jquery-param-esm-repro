@@ -1,0 +1,11 @@
+{
+  "name": "jquery-param-esm-repro",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "jquery-param": "1.2.8"
+  }
+}
